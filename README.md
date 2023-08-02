@@ -11,9 +11,9 @@ jeweils entlang eines Pfeils, auf ein neues Feld.
 3) Der Parcours gilt als erfolgreich absolviert,
 sobald beide auf demselben Feld landen.
 
-Überlege dir, wie man feststellen kann, ob Sasha
-und Mika einen Parcours erfolgreich absolvieren
-können. Schreibe ein Programm das einen Parcours
-einliest und dann ausgibt, ob dieser Parcours erfolgreich absolviert werden kann. Falls es möglich
-ist, soll außerdem eine erfolgreiche Folge von
-Sprüngen für Sasha und Mika ausgegeben werden. 
+> Überlege dir, wie man feststellen kann, ob Sasha
+> und Mika einen Parcours erfolgreich absolvieren
+> können. Schreibe ein Programm das einen Parcours
+> einliest und dann ausgibt, ob dieser Parcours erfolgreich absolviert werden kann. Falls es möglich
+> ist, soll außerdem eine erfolgreiche Folge von
+> Sprüngen für Sasha und Mika ausgegeben werden. 
